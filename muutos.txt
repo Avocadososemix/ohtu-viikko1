@@ -1,0 +1,1 @@
+testataan travis badgea readme.md:ssä.
